@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:Value="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Just Java</string>
+    <string name="plus">+</string>
+    <string name="order">ORDER</string>
+    <string name="_1">1</string>
+    <string name="minus">-</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="topping">topping</string>
+    <string name="name">Name</string>
+    <string name="thank_you">Thank You!!</string>
+</resources>

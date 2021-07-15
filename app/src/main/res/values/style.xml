@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--base application theme-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--customize your theme here.-->
+    </style>
+
+    <!--style for a header textview -->
+    <style name="CustomText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#140696</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <!--    Style For CheckBoxes-->
+    <style name="CheckBox">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#f8e6bd</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+
+</resources>
